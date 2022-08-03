@@ -3,6 +3,12 @@
 Welcome to my profile, my name is Nico, I am a passionate, self-taught junior developer, I am going to present my projects to you. my motto is:
 Today I am better than yesterday and tomorrow I will be better than today
 
+
+
+
+
+
+
 <!--
 **Nicobogado12/Nicobogado12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
