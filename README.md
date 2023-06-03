@@ -20,7 +20,7 @@ Today I am better than yesterday and tomorrow I will be better than today</p>
 - ⚡ Fun fact: with friends
 </div> <br>
 
-<div aling="center" id="badges">
+<div  id="badges" align="center" style="display: inline-block;">
   <h3 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">My social networks</h3>
   
   <a href="https://twitter.com/DevNico12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
@@ -32,7 +32,7 @@ Today I am better than yesterday and tomorrow I will be better than today</p>
  
 <hr>
 <div align="center" style="display: inline-block;">   
-  <h3>Tools Dev</h3><hr width="200px">
+  <h3>Tools Dev</h3><hr width="200px" aling="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width="40px" height="40px" width="40px" height="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
