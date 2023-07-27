@@ -5,12 +5,9 @@
 </div>
 
 
-<div class="header" align="center">
-  <img src="https://img.freepik.com/vector-gratis/desarrollo-web-ingenieria-programadores-sitio-web-codificacion-pantallas-interfaz-realidad-aumentada-desarrollador-ingeniero-proyectos-software-programacion-o-diseno-aplicaciones-ilustracion-dibujos-animados_107791-3863.jpg?w=1380&t=st=1690498447~exp=1690499047~hmac=721af40a2af14fdbdd09f48889764a3b34eab7623318f654cf7c3d3d7460eaea" width="350px">
-
-</div>
 
 <div>
+  
   <p>#Hi 👋
 
 Welcome to my profile, my name is Nico, I am a passionate, self-taught junior developer, I am going to present my projects to you. my motto is:
